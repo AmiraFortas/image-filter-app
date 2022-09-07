@@ -25,4 +25,4 @@ here is an example:
 
 
 ## Deployment Screenshots
-![Successful Deployment of Elastic Beans Talk ](deployment_screenshots\Successful_Deployment.PNG?raw=true)
+![Successful Deployment of Elastic Beans Talk ](deployment_screenshots/Successful_Deployment.PNG?raw=true)
